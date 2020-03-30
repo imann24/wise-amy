@@ -1,0 +1,13 @@
+{
+  "name": "amy-wisdom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Isaiah Mann <isaiahbmann@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+      "http-server": "^0.12.1"
+  },
+  "scripts": {
+      "start": "http-server"
+  }
+}
